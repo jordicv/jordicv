@@ -1,6 +1,6 @@
-# Hola, soy José 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&width=500&lines=Hola%2C+soy+Jos%C3%A9+%F0%9F%91%8B;Desarrollador+web)](https://github.com/jordicv)
 
-Desarrollador web. Trabajo con JavaScript/TypeScript, Python y Java/C#.
+Trabajo con JavaScript/TypeScript, Python y Java/C#.
 
 ## 🛠 Stack
 
@@ -9,11 +9,11 @@ Desarrollador web. Trabajo con JavaScript/TypeScript, Python y Java/C#.
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=jordicv&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordicv&layout=compact&theme=tokyonight)
-
-<!-- Widget de lowlighter/metrics (se genera con la Action de .github/workflows/metrics.yml) -->
 ![Metrics](/github-metrics.svg)
+
+## 🗺 Contribuciones en 3D
+
+![3D contrib](/profile-3d-contrib/profile-season-animate.svg)
 
 ## 📫 Contacto
 
